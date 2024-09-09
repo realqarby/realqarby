@@ -1,6 +1,7 @@
 <div align="center">
-
-### Languages:
+<h1 align="center">Hi, I'm qarby</h1>
+<h3 align="center">a  human</h3>
+### I mostly use:
    
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
@@ -9,16 +10,12 @@
    Discord: qarby
    <br></br>
 
- ![lunny111's GitHub stats](https://github-readme-stats.vercel.app/api?username=realqarby&show_icons=true&theme=radical)
- <br></br>
-   <img src="https://komarev.com/ghpvc/?username=realqarby&label=Number%20Visitors&color=000e27" alt="lunny111" /> 
+ ![realqarby's's GitHub stats](https://github-readme-stats.vercel.app/api?username=realqarby&show_icons=true&theme=radical)
+    <br></br>
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realqarby&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realqarby&theme=tokyonight)
    
-   <p>
-
-</p>
-   
+   <img src="https://komarev.com/ghpvc/?username=realqarby&label=Number%20Visitors&color=000e27" alt="realqarby" /> 
    </center>
    
 </div>
