@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm qarby</h1>
-<h3 align="center">a  human</h3>
+<h3 align="center">"a  human"</h3>
    
-I mostly use:
+<b>I mostly use:<b>
    
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
