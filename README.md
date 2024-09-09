@@ -12,8 +12,8 @@
    <br></br>
 
  ![realqarby's's GitHub stats](https://github-readme-stats.vercel.app/api?username=realqarby&show_icons=true&theme=radical)
-    <br></br>
-   
+    <br>
+    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realqarby&theme=tokyonight)
    
    <img src="https://komarev.com/ghpvc/?username=realqarby&label=Number%20Visitors&color=000e27" alt="realqarby" /> 
